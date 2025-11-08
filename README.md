@@ -1,4 +1,4 @@
-![ScreenRecording2025-11-08at8 34 02PM-ezgif com-speed](https://github.com/user-attachments/assets/e606bc9e-45ac-4b94-abe8-43c7f55b1ef2)# Weather App (React + OpenWeatherMap API)
+Weather App (React + OpenWeatherMap API)
 
 ## UI/UX
 
