@@ -2,11 +2,11 @@
 
 ## UI/UX
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1fdf6b74-c116-46ef-ad19-6c8423fa9db2" 
        alt="Weather App Demo" width="300" />
 </p>
-
 
 
 - Description:
@@ -93,5 +93,6 @@
 
 # Preview
 
-![Demo][Uploading ScreenRecording2025-11-08at8.34.02PM-ezgif.com-speed.gif…]()
+![ScreenRecording2025-11-08at8 34 02PM-ezgif com-speed](https://github.com/user-attachments/assets/5e18319a-6e71-4803-bb92-059610c3ef7c)
+
 
