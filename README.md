@@ -70,11 +70,17 @@
 - Displays temperature (°C), humidity (%), and wind speed (km/h).
 - The app auto-loads Jammu weather data on startup.
 
+## Priview 
+
+
+![ScreenRecording2025-11-08at8 34 02PM-ezgif com-speed](https://github.com/user-attachments/assets/99993b62-4d63-4886-a993-7d03a88dff66)
+
+
 # Example Output
 - City: Jammu  
-- Temperature: 28°C  
-- Humidity: 62%  
-- Wind Speed: 2.8 km/h  
+- Temperature: 16°C  
+- Humidity: 30%  
+- Wind Speed: 1.31 km/h  
 - Weather Icon: Clear Sky ☀️  
 
 # API Used
