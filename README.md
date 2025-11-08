@@ -1,9 +1,12 @@
 # Weather App (React + OpenWeatherMap API)
 
-#Demo 
+## 🖼️ Demo
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1fdf6b74-c116-46ef-ad19-6c8423fa9db2" 
+       alt="Weather App Demo" width="300" />
+</p>
 
- <img width="354" height="594" alt="Screenshot 2025-11-08 at 8 36 02 PM" src="https://github.com/user-attachments/assets/1fdf6b74-c116-46ef-ad19-6c8423fa9db2" />
 
 
 - Description:
