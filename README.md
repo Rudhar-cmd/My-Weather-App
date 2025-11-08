@@ -1,5 +1,11 @@
 # Weather App (React + OpenWeatherMap API)
 
+#Demo 
+
+
+ <img width="354" height="594" alt="Screenshot 2025-11-08 at 8 36 02 PM" src="https://github.com/user-attachments/assets/1fdf6b74-c116-46ef-ad19-6c8423fa9db2" />
+
+
 - Description:
   - A responsive weather application built using React.
   - It allows users to search for weather conditions in any city and displays temperature, humidity, wind speed, and an icon representing the current weather.
