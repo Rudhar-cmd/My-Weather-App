@@ -1,6 +1,6 @@
 # Weather App (React + OpenWeatherMap API)
 
-## 🖼️ Demo
+## UI/UX
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1fdf6b74-c116-46ef-ad19-6c8423fa9db2" 
