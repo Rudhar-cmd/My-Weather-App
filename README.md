@@ -1,4 +1,4 @@
-Weather App (React + OpenWeatherMap API)
+# Weather App (React + OpenWeatherMap API)
 
 ## UI/UX
 
