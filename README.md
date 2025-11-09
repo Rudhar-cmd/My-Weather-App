@@ -81,7 +81,7 @@
 - OpenWeatherMap API  
   - Endpoint: `https://api.openweathermap.org/data/2.5/weather`  
   - Parameters:
-    - `q` → City name
+    - `City` → City name
     - `units` → metric
     - `appid` → API key (stored in .env)
 
